@@ -1,0 +1,2 @@
+# Memo-practice
+Practica terraform
